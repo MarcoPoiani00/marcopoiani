@@ -1,0 +1,29 @@
+baseURL: "http://localhost:1313/"
+languageCode: en-us
+title: Marcosite
+theme: PaperMod
+
+params: 
+  homeInfoParams: 
+    Title: "Hi There, "
+    Content: " I'm Marco...."
+  socialIcons: 
+    - name: linkedin
+      url: "http://linkedin.com"
+    - name: github
+      url: "http://github.com"
+      
+menu:
+  main:
+    - identifier: "Rèsumè"
+      name: "Rèsumè"
+      url: "/rèsumè/"
+      weight: 10
+    - identifier: "Notes"
+      name: "Notes"
+      url: "/notes/"
+      weight: 20
+    - identifier: "Archives"
+      name: "Archives"
+      url: "/archives/"
+      weight: 30
