@@ -6,9 +6,8 @@ theme: PaperMod
 params: 
   homeInfoParams: 
     Title: Hi There 👋, 
-    Content: 
-    " I am Marco Poiani, a master's student in Data Science 📈 at the University of Pisa. 🏫 
-      I use this website as a personal archive for storing my projects and notes and tracking my journey as a student. 🎓"
+    Content: " I am Marco Poiani, a master's student in Data Science 📈 at the University of Pisa. 🏫 
+               I use this website as a personal archive for storing my projects and notes and tracking my journey as a student. 🎓"
 
   socialIcons: 
     - name: linkedin
