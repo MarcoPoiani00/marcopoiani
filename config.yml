@@ -5,8 +5,10 @@ theme: PaperMod
 
 params: 
   homeInfoParams: 
-    Title: "Hi There" wave
-    Content: " I'm Marco...."
+    Title: Hi There 👋, 
+    Content: " I am Marco Poiani, a master's student in Data Science 📈 at University of Pisa. 🏫 
+               I utilize this website as a personal archive for storing my projects and notes, as well as to track my journey as a student. 🎓"
+
   socialIcons: 
     - name: linkedin
       url: "http://linkedin.com"
