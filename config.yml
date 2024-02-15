@@ -5,7 +5,7 @@ theme: PaperMod
 
 params: 
   homeInfoParams: 
-    Title: "Hi There wave,"
+    Title: "Hi There" wave
     Content: " I'm Marco...."
   socialIcons: 
     - name: linkedin
